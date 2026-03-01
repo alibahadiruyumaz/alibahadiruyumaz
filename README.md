@@ -1,16 +1,13 @@
-## Hi there 👋
+# Ali Bahadır Uyumaz
+**Computer Engineering Student at Ankara University**
 
-<!--
-**alibahadiruyumaz/alibahadiruyumaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ⚙️ Technical Stack
+- **Mobile Engineering (Current Focus):** React Native, Expo, Redux Toolkit, AsyncStorage
+- **Academic Background:** Data Mining, Artificial Neural Networks (ANN), Java (Android Studio)
+- **Workflow:** Git, GitHub, RESTful APIs
 
-Here are some ideas to get you started:
+## 🚀 Active Project
+- **SafeWealth:** Developing an on-device financial analytics iOS application. Focused on local state persistence, complex API error handling, and memory-optimized data visualization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Analytics
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=alibahadiruyumaz&show_icons=true&theme=radical)
