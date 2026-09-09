@@ -253,13 +253,13 @@
 <rect x="544" y="48" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.74s;" />
 <rect x="544" y="64" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.76s;" />
 <rect x="544" y="80" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.78s;" />
-<rect x="544" y="96" width="12" height="12" fill="#006d32" class="box" style="animation-delay: 0.8s;" />
+<rect x="544" y="96" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.8s;" />
 <rect x="560" y="0" width="12" height="12" fill="#006d32" class="box" style="animation-delay: 0.7000000000000001s;" />
-<rect x="560" y="16" width="12" height="12" fill="#26a641" class="box" style="animation-delay: 0.7200000000000001s;" />
-<rect x="560" y="32" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.7400000000000001s;" />
+<rect x="560" y="16" width="12" height="12" fill="#006d32" class="box" style="animation-delay: 0.7200000000000001s;" />
+<rect x="560" y="32" width="12" height="12" fill="#26a641" class="box" style="animation-delay: 0.7400000000000001s;" />
 <rect x="560" y="48" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.76s;" />
-<rect x="560" y="64" width="12" height="12" fill="#0e4429" class="box" style="animation-delay: 0.78s;" />
-<rect x="560" y="80" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.8s;" />
+<rect x="560" y="64" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.78s;" />
+<rect x="560" y="80" width="12" height="12" fill="#0e4429" class="box" style="animation-delay: 0.8s;" />
 <rect x="560" y="96" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.8200000000000001s;" />
 <rect x="576" y="0" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.72s;" />
 <rect x="576" y="16" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.74s;" />
@@ -305,10 +305,10 @@
 <rect x="656" y="96" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.9400000000000001s;" />
 <rect x="672" y="0" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.84s;" />
 <rect x="672" y="16" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.86s;" />
-<rect x="672" y="32" width="12" height="12" fill="#0e4429" class="box" style="animation-delay: 0.88s;" />
-<rect x="672" y="48" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.8999999999999999s;" />
-<rect x="672" y="64" width="12" height="12" fill="#39d353" class="box" style="animation-delay: 0.9199999999999999s;" />
-<rect x="672" y="80" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.94s;" />
+<rect x="672" y="32" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.88s;" />
+<rect x="672" y="48" width="12" height="12" fill="#0e4429" class="box" style="animation-delay: 0.8999999999999999s;" />
+<rect x="672" y="64" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.9199999999999999s;" />
+<rect x="672" y="80" width="12" height="12" fill="#39d353" class="box" style="animation-delay: 0.94s;" />
 <rect x="672" y="96" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.96s;" />
 <rect x="688" y="0" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.86s;" />
 <rect x="688" y="16" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 0.88s;" />
@@ -361,10 +361,10 @@
 <rect x="784" y="96" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 1.1s;" />
 <rect x="800" y="0" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 1.0s;" />
 <rect x="800" y="16" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 1.02s;" />
-<rect x="800" y="32" width="12" height="12" fill="#39d353" class="box" style="animation-delay: 1.04s;" />
-<rect x="800" y="48" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 1.06s;" />
-<rect x="800" y="64" width="12" height="12" fill="#006d32" class="box" style="animation-delay: 1.08s;" />
-<rect x="800" y="80" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 1.1s;" />
+<rect x="800" y="32" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 1.04s;" />
+<rect x="800" y="48" width="12" height="12" fill="#39d353" class="box" style="animation-delay: 1.06s;" />
+<rect x="800" y="64" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 1.08s;" />
+<rect x="800" y="80" width="12" height="12" fill="#006d32" class="box" style="animation-delay: 1.1s;" />
 <rect x="800" y="96" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 1.12s;" />
 <rect x="816" y="0" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 1.02s;" />
 <rect x="816" y="16" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 1.04s;" />
@@ -376,5 +376,6 @@
 <rect x="832" y="0" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 1.04s;" />
 <rect x="832" y="16" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 1.06s;" />
 <rect x="832" y="32" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 1.08s;" />
+<rect x="832" y="48" width="12" height="12" fill="#161b22" class="box" style="animation-delay: 1.1s;" />
 </g>
 </svg>
